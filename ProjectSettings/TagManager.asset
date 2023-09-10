@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rupee
+  - Enemy
+  - Room
+  - Wall
+  - hp
+  - key
+  - cGate
+  - oGate
+  - oGateR
+  - oGateL
+  - oGateD
+  - cGateR
+  - cGateL
+  - bomb
+  - PushWall
+  - Trap
+  - OldManTrig
+  - BowRoom
+  - Stairs
+  - BowRoomTile
+  - ToBowRoom
+  - Bow
+  - Checkpoint
+  - OldManGate
+  - BoomerangP
+  - ScreenExpld
+  - BatDoor
+  - tempDoor
+  - GrapplingPickup
+  - Wep
+  - pit
+  - Hook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Barrier
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
