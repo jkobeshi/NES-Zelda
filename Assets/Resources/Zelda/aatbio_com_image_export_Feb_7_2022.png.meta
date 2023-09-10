@@ -1,0 +1,4416 @@
+fileFormatVersion: 2
+guid: 232baa12129808b47b98968e791dd14b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5777165481407750273
+    second: aatbio_com_image_export_Feb_7_2022_0
+  - first:
+      213: 5165445621534070728
+    second: aatbio_com_image_export_Feb_7_2022_1
+  - first:
+      213: -8413534774606097803
+    second: aatbio_com_image_export_Feb_7_2022_2
+  - first:
+      213: 6047987375474732358
+    second: aatbio_com_image_export_Feb_7_2022_3
+  - first:
+      213: 4409674631057418192
+    second: aatbio_com_image_export_Feb_7_2022_4
+  - first:
+      213: -7240988846210683905
+    second: aatbio_com_image_export_Feb_7_2022_5
+  - first:
+      213: 1999721083689476122
+    second: aatbio_com_image_export_Feb_7_2022_6
+  - first:
+      213: -5917355911727138045
+    second: aatbio_com_image_export_Feb_7_2022_7
+  - first:
+      213: 5513813419913231239
+    second: aatbio_com_image_export_Feb_7_2022_8
+  - first:
+      213: -6844009377711426259
+    second: aatbio_com_image_export_Feb_7_2022_9
+  - first:
+      213: -4201731712067968237
+    second: aatbio_com_image_export_Feb_7_2022_10
+  - first:
+      213: 7988360395381331781
+    second: aatbio_com_image_export_Feb_7_2022_11
+  - first:
+      213: -9019222994043476772
+    second: aatbio_com_image_export_Feb_7_2022_12
+  - first:
+      213: 1575888226193214132
+    second: aatbio_com_image_export_Feb_7_2022_13
+  - first:
+      213: -5017584453758792468
+    second: aatbio_com_image_export_Feb_7_2022_14
+  - first:
+      213: 5458176924574437925
+    second: aatbio_com_image_export_Feb_7_2022_15
+  - first:
+      213: 653224405333124525
+    second: aatbio_com_image_export_Feb_7_2022_16
+  - first:
+      213: 3004316805299110804
+    second: aatbio_com_image_export_Feb_7_2022_17
+  - first:
+      213: 3113666807506555791
+    second: aatbio_com_image_export_Feb_7_2022_18
+  - first:
+      213: -1018055491334268895
+    second: aatbio_com_image_export_Feb_7_2022_19
+  - first:
+      213: 1107838870186531431
+    second: aatbio_com_image_export_Feb_7_2022_20
+  - first:
+      213: -6812673335130369544
+    second: aatbio_com_image_export_Feb_7_2022_21
+  - first:
+      213: -4912814437087785786
+    second: aatbio_com_image_export_Feb_7_2022_22
+  - first:
+      213: -8339897120215982407
+    second: aatbio_com_image_export_Feb_7_2022_23
+  - first:
+      213: -361545864046657218
+    second: aatbio_com_image_export_Feb_7_2022_24
+  - first:
+      213: 3834617907338864669
+    second: aatbio_com_image_export_Feb_7_2022_25
+  - first:
+      213: 6544692644423722965
+    second: aatbio_com_image_export_Feb_7_2022_26
+  - first:
+      213: -5032099347270361654
+    second: aatbio_com_image_export_Feb_7_2022_27
+  - first:
+      213: 2211066837557368652
+    second: aatbio_com_image_export_Feb_7_2022_28
+  - first:
+      213: -2541814620817958737
+    second: aatbio_com_image_export_Feb_7_2022_29
+  - first:
+      213: -7971999640456505791
+    second: aatbio_com_image_export_Feb_7_2022_30
+  - first:
+      213: -8352292380131139914
+    second: aatbio_com_image_export_Feb_7_2022_31
+  - first:
+      213: 686831126270889488
+    second: aatbio_com_image_export_Feb_7_2022_32
+  - first:
+      213: -4289660012919606664
+    second: aatbio_com_image_export_Feb_7_2022_33
+  - first:
+      213: -4376812048473135322
+    second: aatbio_com_image_export_Feb_7_2022_34
+  - first:
+      213: -6336155702021498710
+    second: aatbio_com_image_export_Feb_7_2022_35
+  - first:
+      213: -1668058251583168500
+    second: aatbio_com_image_export_Feb_7_2022_36
+  - first:
+      213: 739431949439893162
+    second: aatbio_com_image_export_Feb_7_2022_37
+  - first:
+      213: 7873976161317551595
+    second: aatbio_com_image_export_Feb_7_2022_38
+  - first:
+      213: -6935792705083397579
+    second: aatbio_com_image_export_Feb_7_2022_39
+  - first:
+      213: 2406050792588460090
+    second: aatbio_com_image_export_Feb_7_2022_40
+  - first:
+      213: -5261847342186101779
+    second: aatbio_com_image_export_Feb_7_2022_41
+  - first:
+      213: -3692083440950580973
+    second: aatbio_com_image_export_Feb_7_2022_42
+  - first:
+      213: -1770996231934730711
+    second: aatbio_com_image_export_Feb_7_2022_43
+  - first:
+      213: -8815449849473202039
+    second: aatbio_com_image_export_Feb_7_2022_44
+  - first:
+      213: 1328402106858274808
+    second: aatbio_com_image_export_Feb_7_2022_45
+  - first:
+      213: -1893635035290963005
+    second: aatbio_com_image_export_Feb_7_2022_46
+  - first:
+      213: 7733984885477239804
+    second: aatbio_com_image_export_Feb_7_2022_47
+  - first:
+      213: 4494109625441058861
+    second: aatbio_com_image_export_Feb_7_2022_48
+  - first:
+      213: -245600275609788433
+    second: aatbio_com_image_export_Feb_7_2022_49
+  - first:
+      213: -9036966671091239708
+    second: aatbio_com_image_export_Feb_7_2022_50
+  - first:
+      213: 6726811185914586860
+    second: aatbio_com_image_export_Feb_7_2022_51
+  - first:
+      213: -851956993974521884
+    second: aatbio_com_image_export_Feb_7_2022_52
+  - first:
+      213: -7880804082165659874
+    second: aatbio_com_image_export_Feb_7_2022_53
+  - first:
+      213: -9185865707160164719
+    second: aatbio_com_image_export_Feb_7_2022_54
+  - first:
+      213: 8841570081063397252
+    second: aatbio_com_image_export_Feb_7_2022_55
+  - first:
+      213: 6719640286422462366
+    second: aatbio_com_image_export_Feb_7_2022_56
+  - first:
+      213: -7708300059222477912
+    second: aatbio_com_image_export_Feb_7_2022_57
+  - first:
+      213: -1312617027597086081
+    second: aatbio_com_image_export_Feb_7_2022_58
+  - first:
+      213: 6345537776931448316
+    second: aatbio_com_image_export_Feb_7_2022_59
+  - first:
+      213: 7518447373311323958
+    second: aatbio_com_image_export_Feb_7_2022_60
+  - first:
+      213: 7849335652092849445
+    second: aatbio_com_image_export_Feb_7_2022_61
+  - first:
+      213: -737650837439722359
+    second: aatbio_com_image_export_Feb_7_2022_62
+  - first:
+      213: -8598109558406196503
+    second: aatbio_com_image_export_Feb_7_2022_63
+  - first:
+      213: 651409538022830227
+    second: aatbio_com_image_export_Feb_7_2022_64
+  - first:
+      213: 2238030817107467811
+    second: aatbio_com_image_export_Feb_7_2022_65
+  - first:
+      213: -5346466454261091056
+    second: aatbio_com_image_export_Feb_7_2022_66
+  - first:
+      213: 624071146078805705
+    second: aatbio_com_image_export_Feb_7_2022_67
+  - first:
+      213: 4798303201843677978
+    second: aatbio_com_image_export_Feb_7_2022_68
+  - first:
+      213: 262626020477110239
+    second: aatbio_com_image_export_Feb_7_2022_69
+  - first:
+      213: 5203110844527949263
+    second: aatbio_com_image_export_Feb_7_2022_70
+  - first:
+      213: 4945219683184732097
+    second: aatbio_com_image_export_Feb_7_2022_71
+  - first:
+      213: 6828607305321747653
+    second: aatbio_com_image_export_Feb_7_2022_72
+  - first:
+      213: 7295909396250980017
+    second: aatbio_com_image_export_Feb_7_2022_73
+  - first:
+      213: -2192287913168346037
+    second: aatbio_com_image_export_Feb_7_2022_74
+  - first:
+      213: 411482625624843041
+    second: aatbio_com_image_export_Feb_7_2022_75
+  - first:
+      213: 1368563004552295418
+    second: aatbio_com_image_export_Feb_7_2022_76
+  - first:
+      213: 4633614692951591745
+    second: aatbio_com_image_export_Feb_7_2022_77
+  - first:
+      213: 4552468866885267570
+    second: aatbio_com_image_export_Feb_7_2022_78
+  - first:
+      213: 7127372886541817571
+    second: aatbio_com_image_export_Feb_7_2022_79
+  - first:
+      213: -2170694730576131883
+    second: aatbio_com_image_export_Feb_7_2022_80
+  - first:
+      213: 5609777764962617762
+    second: aatbio_com_image_export_Feb_7_2022_81
+  - first:
+      213: -5391719894670021967
+    second: aatbio_com_image_export_Feb_7_2022_82
+  - first:
+      213: -6542450449692302201
+    second: aatbio_com_image_export_Feb_7_2022_83
+  - first:
+      213: -826098697205595829
+    second: aatbio_com_image_export_Feb_7_2022_84
+  - first:
+      213: -1891210759876478961
+    second: aatbio_com_image_export_Feb_7_2022_85
+  - first:
+      213: -8676818886064232458
+    second: aatbio_com_image_export_Feb_7_2022_86
+  - first:
+      213: 6801517942133670366
+    second: aatbio_com_image_export_Feb_7_2022_87
+  - first:
+      213: -626827204893454602
+    second: aatbio_com_image_export_Feb_7_2022_88
+  - first:
+      213: 5958877978024416995
+    second: aatbio_com_image_export_Feb_7_2022_89
+  - first:
+      213: -4534211609798984853
+    second: aatbio_com_image_export_Feb_7_2022_90
+  - first:
+      213: 8374887294875125156
+    second: aatbio_com_image_export_Feb_7_2022_91
+  - first:
+      213: -2026100428452932462
+    second: aatbio_com_image_export_Feb_7_2022_92
+  - first:
+      213: 3078148016005560667
+    second: aatbio_com_image_export_Feb_7_2022_93
+  - first:
+      213: 7001655110065582339
+    second: aatbio_com_image_export_Feb_7_2022_94
+  - first:
+      213: 935255148710033782
+    second: aatbio_com_image_export_Feb_7_2022_95
+  - first:
+      213: 4998368047162438297
+    second: aatbio_com_image_export_Feb_7_2022_96
+  - first:
+      213: 3904632344123197738
+    second: aatbio_com_image_export_Feb_7_2022_97
+  - first:
+      213: -2503941495745105572
+    second: aatbio_com_image_export_Feb_7_2022_98
+  - first:
+      213: 7628698260936101380
+    second: aatbio_com_image_export_Feb_7_2022_99
+  - first:
+      213: -4974458347700842846
+    second: aatbio_com_image_export_Feb_7_2022_100
+  - first:
+      213: -2348016427107402258
+    second: aatbio_com_image_export_Feb_7_2022_101
+  - first:
+      213: -6283316433565052950
+    second: aatbio_com_image_export_Feb_7_2022_102
+  - first:
+      213: -2010443190193093733
+    second: aatbio_com_image_export_Feb_7_2022_103
+  - first:
+      213: 112979106809069554
+    second: aatbio_com_image_export_Feb_7_2022_104
+  - first:
+      213: -6002862331080962692
+    second: aatbio_com_image_export_Feb_7_2022_105
+  - first:
+      213: 6589382600291037915
+    second: aatbio_com_image_export_Feb_7_2022_106
+  - first:
+      213: 228892440901295593
+    second: aatbio_com_image_export_Feb_7_2022_107
+  - first:
+      213: -3241728493691319216
+    second: aatbio_com_image_export_Feb_7_2022_108
+  - first:
+      213: -4812942988538759643
+    second: aatbio_com_image_export_Feb_7_2022_109
+  - first:
+      213: -1158848422081265657
+    second: aatbio_com_image_export_Feb_7_2022_110
+  - first:
+      213: -7141236930851844324
+    second: aatbio_com_image_export_Feb_7_2022_111
+  - first:
+      213: 1699153243898733727
+    second: aatbio_com_image_export_Feb_7_2022_112
+  - first:
+      213: 7528476601178698908
+    second: aatbio_com_image_export_Feb_7_2022_113
+  - first:
+      213: -8027914438536327064
+    second: aatbio_com_image_export_Feb_7_2022_114
+  - first:
+      213: -4334244340369418258
+    second: aatbio_com_image_export_Feb_7_2022_115
+  - first:
+      213: -4287744635036169139
+    second: aatbio_com_image_export_Feb_7_2022_116
+  - first:
+      213: -7881115297748852483
+    second: aatbio_com_image_export_Feb_7_2022_117
+  - first:
+      213: 5125117734630606355
+    second: aatbio_com_image_export_Feb_7_2022_118
+  - first:
+      213: -8784354898693588072
+    second: aatbio_com_image_export_Feb_7_2022_119
+  - first:
+      213: 3885686813864792792
+    second: aatbio_com_image_export_Feb_7_2022_120
+  - first:
+      213: -808853243118726343
+    second: aatbio_com_image_export_Feb_7_2022_121
+  - first:
+      213: 762696122561537109
+    second: aatbio_com_image_export_Feb_7_2022_122
+  - first:
+      213: -3669470879933980772
+    second: aatbio_com_image_export_Feb_7_2022_123
+  - first:
+      213: -8258280495581972518
+    second: aatbio_com_image_export_Feb_7_2022_124
+  - first:
+      213: -3992261972994462711
+    second: aatbio_com_image_export_Feb_7_2022_125
+  - first:
+      213: -6374558254545155850
+    second: aatbio_com_image_export_Feb_7_2022_126
+  - first:
+      213: 6828293224579057718
+    second: aatbio_com_image_export_Feb_7_2022_127
+  - first:
+      213: 3074019427951970370
+    second: aatbio_com_image_export_Feb_7_2022_128
+  - first:
+      213: -2328591817265361663
+    second: aatbio_com_image_export_Feb_7_2022_129
+  - first:
+      213: 3877275797163176719
+    second: aatbio_com_image_export_Feb_7_2022_130
+  - first:
+      213: 1031867230176877701
+    second: aatbio_com_image_export_Feb_7_2022_131
+  - first:
+      213: -7078420002127512299
+    second: aatbio_com_image_export_Feb_7_2022_132
+  - first:
+      213: -479712224404407180
+    second: aatbio_com_image_export_Feb_7_2022_133
+  - first:
+      213: 6226454109132608060
+    second: aatbio_com_image_export_Feb_7_2022_134
+  - first:
+      213: -7949623978892624365
+    second: aatbio_com_image_export_Feb_7_2022_135
+  - first:
+      213: -1585291483671217542
+    second: aatbio_com_image_export_Feb_7_2022_136
+  - first:
+      213: -4910777909677025387
+    second: aatbio_com_image_export_Feb_7_2022_137
+  - first:
+      213: -2345423459381595759
+    second: aatbio_com_image_export_Feb_7_2022_138
+  - first:
+      213: -6044850651463328209
+    second: aatbio_com_image_export_Feb_7_2022_139
+  - first:
+      213: 6571757163951303231
+    second: aatbio_com_image_export_Feb_7_2022_140
+  - first:
+      213: 6256512212788554379
+    second: aatbio_com_image_export_Feb_7_2022_141
+  - first:
+      213: 5073299781336452922
+    second: aatbio_com_image_export_Feb_7_2022_142
+  - first:
+      213: 1164232405540212844
+    second: aatbio_com_image_export_Feb_7_2022_143
+  - first:
+      213: 3710389662839443963
+    second: aatbio_com_image_export_Feb_7_2022_144
+  - first:
+      213: -1586685860455485306
+    second: aatbio_com_image_export_Feb_7_2022_145
+  - first:
+      213: -5442292835395236319
+    second: aatbio_com_image_export_Feb_7_2022_146
+  - first:
+      213: -3738401680083589424
+    second: aatbio_com_image_export_Feb_7_2022_147
+  - first:
+      213: -849871984087461891
+    second: aatbio_com_image_export_Feb_7_2022_148
+  - first:
+      213: 4094250994251566403
+    second: aatbio_com_image_export_Feb_7_2022_149
+  - first:
+      213: -7229598546406416074
+    second: aatbio_com_image_export_Feb_7_2022_150
+  - first:
+      213: 4273926176481772395
+    second: aatbio_com_image_export_Feb_7_2022_151
+  - first:
+      213: 3847665061508213680
+    second: aatbio_com_image_export_Feb_7_2022_152
+  - first:
+      213: -7960376453369450037
+    second: aatbio_com_image_export_Feb_7_2022_153
+  - first:
+      213: 3276974904451993005
+    second: aatbio_com_image_export_Feb_7_2022_154
+  - first:
+      213: 6161575793520532240
+    second: aatbio_com_image_export_Feb_7_2022_155
+  - first:
+      213: -5897375692804171043
+    second: aatbio_com_image_export_Feb_7_2022_156
+  - first:
+      213: -8420902019074647805
+    second: aatbio_com_image_export_Feb_7_2022_157
+  - first:
+      213: -1631214598905393140
+    second: aatbio_com_image_export_Feb_7_2022_158
+  - first:
+      213: -8318414572035899446
+    second: aatbio_com_image_export_Feb_7_2022_159
+  - first:
+      213: 1852679251271271682
+    second: aatbio_com_image_export_Feb_7_2022_160
+  - first:
+      213: -4496165171955327077
+    second: aatbio_com_image_export_Feb_7_2022_161
+  - first:
+      213: -4931680298889075570
+    second: aatbio_com_image_export_Feb_7_2022_162
+  - first:
+      213: 9051139722369673853
+    second: aatbio_com_image_export_Feb_7_2022_163
+  - first:
+      213: -1274687601121204419
+    second: aatbio_com_image_export_Feb_7_2022_164
+  - first:
+      213: -7275968525562504613
+    second: aatbio_com_image_export_Feb_7_2022_165
+  - first:
+      213: -1933892007586683893
+    second: aatbio_com_image_export_Feb_7_2022_166
+  - first:
+      213: 1363686375880119667
+    second: aatbio_com_image_export_Feb_7_2022_167
+  - first:
+      213: 1409683627844425243
+    second: aatbio_com_image_export_Feb_7_2022_168
+  - first:
+      213: 1866396439138837010
+    second: aatbio_com_image_export_Feb_7_2022_169
+  - first:
+      213: 1321801559296636807
+    second: aatbio_com_image_export_Feb_7_2022_170
+  - first:
+      213: -3689540050353891730
+    second: aatbio_com_image_export_Feb_7_2022_171
+  - first:
+      213: -3590159925334822259
+    second: aatbio_com_image_export_Feb_7_2022_172
+  - first:
+      213: -1959508571264604926
+    second: aatbio_com_image_export_Feb_7_2022_173
+  - first:
+      213: -2715193417566466060
+    second: aatbio_com_image_export_Feb_7_2022_174
+  - first:
+      213: 2705587991948995757
+    second: aatbio_com_image_export_Feb_7_2022_175
+  - first:
+      213: 374791858736197013
+    second: aatbio_com_image_export_Feb_7_2022_176
+  - first:
+      213: 9096724490609982602
+    second: aatbio_com_image_export_Feb_7_2022_177
+  - first:
+      213: 5546714681078048760
+    second: aatbio_com_image_export_Feb_7_2022_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fda087a9263dfa0800000000000000
+      internalID: -5777165481407750273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c79222dc695fa740800000000000000
+      internalID: 5165445621534070728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572153603be1d3b80800000000000000
+      internalID: -8413534774606097803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de7317974cee350800000000000000
+      internalID: 6047987375474732358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 200
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7aa37a6bf423d30800000000000000
+      internalID: 4409674631057418192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbeb0f3207d28b90800000000000000
+      internalID: -7240988846210683905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 200
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ab2b0bbf60cb10800000000000000
+      internalID: 1999721083689476122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b32f7562451eda0800000000000000
+      internalID: -5917355911727138045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb5bb8710058c40800000000000000
+      internalID: 5513813419913231239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25711a6bb13501a0800000000000000
+      internalID: -6844009377711426259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313e1b4054370b5c0800000000000000
+      internalID: -4201731712067968237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d088947b5cde60800000000000000
+      internalID: 7988360395381331781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4e00a097845d280800000000000000
+      internalID: -9019222994043476772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba87f70efdaed510800000000000000
+      internalID: 1575888226193214132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec4f2b0685fd5ab0800000000000000
+      internalID: -5017584453758792468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5225e768ef65fbb40800000000000000
+      internalID: 5458176924574437925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_16
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da52f7eb228b01900800000000000000
+      internalID: 653224405333124525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4930794873a71b920800000000000000
+      internalID: 3004316805299110804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f835a5ae677f53b20800000000000000
+      internalID: 3113666807506555791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128926dace32fd1f0800000000000000
+      internalID: -1018055491334268895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 200
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a96d53595df5f00800000000000000
+      internalID: 1107838870186531431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f157c062b58471a0800000000000000
+      internalID: -6812673335130369544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 152
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc8f57c4d22dbb0800000000000000
+      internalID: -4912814437087785786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 152
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be193e71cbb24c80800000000000000
+      internalID: -8339897120215982407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 174
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31cc73c3f78bfaf0800000000000000
+      internalID: -361545864046657218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 174
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e8488bac473530800000000000000
+      internalID: 3834617907338864669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ecfae84b63da50800000000000000
+      internalID: 6544692644423722965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_27
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 174
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd997b0e446a2ab0800000000000000
+      internalID: -5032099347270361654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 167
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d043f2994fae10800000000000000
+      internalID: 2211066837557368652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 167
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa85049c119a9bcd0800000000000000
+      internalID: -2541814620817958737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1465c018094cd5190800000000000000
+      internalID: -7971999640456505791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed4162552b61c80800000000000000
+      internalID: -8352292380131139914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ece06354d188900800000000000000
+      internalID: 686831126270889488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872bab222f01874c0800000000000000
+      internalID: -4289660012919606664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627eb1a91a07243c0800000000000000
+      internalID: -4376812048473135322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8517b95f37118a0800000000000000
+      internalID: -6336155702021498710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e9b1abddd9d8e0800000000000000
+      internalID: -1668058251583168500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae70f9b07df24a00800000000000000
+      internalID: 739431949439893162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf931c99bf54d60800000000000000
+      internalID: 7873976161317551595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a22c9384d1fbf90800000000000000
+      internalID: -6935792705083397579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3048c3b272046120800000000000000
+      internalID: 2406050792588460090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 157
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de30aa288b92af6b0800000000000000
+      internalID: -5261847342186101779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e9050ca513ccc0800000000000000
+      internalID: -3692083440950580973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 157
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e99f86f482c67e0800000000000000
+      internalID: -1770996231934730711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 157
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98801e2711b39a580800000000000000
+      internalID: -8815449849473202039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_45
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fffa229dae6f6210800000000000000
+      internalID: 1328402106858274808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_46
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 118
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37f33e7f478b5e0800000000000000
+      internalID: -1893635035290963005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 128
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb6c15e642a45b60800000000000000
+      internalID: 7733984885477239804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_48
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20041eb4e84e5e30800000000000000
+      internalID: 4494109625441058861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef5a8fb9d3779cf0800000000000000
+      internalID: -245600275609788433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_50
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 92
+        width: 132
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4ff8a41be369280800000000000000
+      internalID: -9036966671091239708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62097222f6a5d50800000000000000
+      internalID: 6726811185914586860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef2d3ab0ad3d24f0800000000000000
+      internalID: -851956993974521884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17411a0172c1a290800000000000000
+      internalID: -7880804082165659874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a642eecf358080800000000000000
+      internalID: -9185865707160164719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4876182e42193ba70800000000000000
+      internalID: 8841570081063397252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f6d920d35f04d50800000000000000
+      internalID: 6719640286422462366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3fbebbfed960590800000000000000
+      internalID: -7708300059222477912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7252f794c5a8cde0800000000000000
+      internalID: -1312617027597086081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf522deecf0ef0850800000000000000
+      internalID: 6345537776931448316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_60
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa0b43d04e65860800000000000000
+      internalID: 7518447373311323958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dadc120317eec60800000000000000
+      internalID: 7849335652092849445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc22ab87653c5f0800000000000000
+      internalID: -737650837439722359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2de4f49e06da880800000000000000
+      internalID: -8598109558406196503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f62506854a0900800000000000000
+      internalID: 651409538022830227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e511aab251f0f10800000000000000
+      internalID: 2238030817107467811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b93e26198dc5b0800000000000000
+      internalID: -5346466454261091056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce1990a66529a800800000000000000
+      internalID: 624071146078805705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_68
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b038ee65ff69240800000000000000
+      internalID: 4798303201843677978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_69
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7005369f805a300800000000000000
+      internalID: 262626020477110239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_70
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5321feeb9253840800000000000000
+      internalID: 5203110844527949263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_71
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ee78d913f0a440800000000000000
+      internalID: 4945219683184732097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_72
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c417582a2614ce50800000000000000
+      internalID: 6828607305321747653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be69f4c0f6404560800000000000000
+      internalID: 7295909396250980017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e73a12cd6391e0800000000000000
+      internalID: -2192287913168346037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1232d939441e5b500800000000000000
+      internalID: 411482625624843041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b41b3dcc1ef210800000000000000
+      internalID: 1368563004552295418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_77
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b09676308ed4040800000000000000
+      internalID: 4633614692951591745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_78
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270b8bd705e9d2f30800000000000000
+      internalID: 4552468866885267570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 99
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6531cb0e389e260800000000000000
+      internalID: 7127372886541817571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_80
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88234b4a420e1e0800000000000000
+      internalID: -2170694730576131883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94b75c72fe9dd40800000000000000
+      internalID: 5609777764962617762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba69c58253cc25b0800000000000000
+      internalID: -5391719894670021967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 98
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ee79bafb8435a0800000000000000
+      internalID: -6542450449692302201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c5ab9c9b1984f0800000000000000
+      internalID: -826098697205595829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_85
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f087a2e75d111c5e0800000000000000
+      internalID: -1891210759876478961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_86
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7adb3e13fb59780800000000000000
+      internalID: -8676818886064232458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c25a4888d36e50800000000000000
+      internalID: 6801517942133670366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_88
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe46cc6aff0d47f0800000000000000
+      internalID: -626827204893454602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61b0413ff22b250800000000000000
+      internalID: 5958877978024416995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bba7d609e3311c0800000000000000
+      internalID: -4534211609798984853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5c6f46f93993470800000000000000
+      internalID: 8374887294875125156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294dbc22568d1e3e0800000000000000
+      internalID: -2026100428452932462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_93
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 98
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b514df47c7ba20800000000000000
+      internalID: 3078148016005560667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_94
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301f14be930ea2160800000000000000
+      internalID: 7001655110065582339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67977314a91bafc00800000000000000
+      internalID: 935255148710033782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_96
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 92
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b7c3a145cd5540800000000000000
+      internalID: 4998368047162438297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_97
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29c6f9ed6a003630800000000000000
+      internalID: 3904632344123197738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_98
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b0cfd976304dd0800000000000000
+      internalID: -2503941495745105572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_99
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 92
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8cb556a49ed960800000000000000
+      internalID: 7628698260936101380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_100
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae80531d7c27fab0800000000000000
+      internalID: -4974458347700842846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed3b77ff7b2a6fd0800000000000000
+      internalID: -2348016427107402258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_102
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0bfd7efc2dc8a0800000000000000
+      internalID: -6283316433565052950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_103
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93007ff1987914e0800000000000000
+      internalID: -2010443190193093733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_104
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff356826e1619100800000000000000
+      internalID: 112979106809069554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_105
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d8850b38c81bca0800000000000000
+      internalID: -6002862331080962692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_106
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 149
+        width: 142
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2bc7b1090327b50800000000000000
+      internalID: 6589382600291037915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_107
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed91b756703d2300800000000000000
+      internalID: 228892440901295593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_108
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c44434c111303d0800000000000000
+      internalID: -3241728493691319216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_109
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526b0fb1addf43db0800000000000000
+      internalID: -4812942988538759643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_110
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700035dff71faefe0800000000000000
+      internalID: -1158848422081265657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_111
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fcca7e8da35ec90800000000000000
+      internalID: -7141236930851844324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_112
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9469817fda949710800000000000000
+      internalID: 1699153243898733727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_113
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b819c4958a7860800000000000000
+      internalID: 7528476601178698908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_114
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86010d31a5e179090800000000000000
+      internalID: -8027914438536327064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_115
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7988a7cbba9d3c0800000000000000
+      internalID: -4334244340369418258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c051dc8fede74c0800000000000000
+      internalID: -4287744635036169139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_117
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df068c38467a0a290800000000000000
+      internalID: -7881115297748852483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_118
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31646b4fc63102740800000000000000
+      internalID: 5125117734630606355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_119
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf76ad2c3b71680800000000000000
+      internalID: -8784354898693588072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_120
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d294d8e19bbce530800000000000000
+      internalID: 3885686813864792792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_121
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9335c78c24066c4f0800000000000000
+      internalID: -808853243118726343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55429d02514a59a00800000000000000
+      internalID: 762696122561537109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_123
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f15e72dab631dc0800000000000000
+      internalID: -3669470879933980772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_124
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bc4db4a1b46d80800000000000000
+      internalID: -8258280495581972518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_125
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6d5133e2a898c0800000000000000
+      internalID: -3992261972994462711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f84dc59a050987a0800000000000000
+      internalID: -6374558254545155850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_127
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638cd398288f2ce50800000000000000
+      internalID: 6828293224579057718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_128
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2480ab3026c19aa20800000000000000
+      internalID: 3074019427951970370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_129
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d4401641e2fafd0800000000000000
+      internalID: -2328591817265361663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_130
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03712a7bc9dec530800000000000000
+      internalID: 3877275797163176719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_131
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1f0e57cde15e00800000000000000
+      internalID: 1031867230176877701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_132
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d7b2ad28664cd90800000000000000
+      internalID: -7078420002127512299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_133
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c76f50648b759f0800000000000000
+      internalID: -479712224404407180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_134
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 56
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32de19e50fc86650800000000000000
+      internalID: 6226454109132608060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_135
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e7d203c134da190800000000000000
+      internalID: -7949623978892624365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_136
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a335a7bc9eff9e0800000000000000
+      internalID: -1585291483671217542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_137
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979dd2728969dbb0800000000000000
+      internalID: -4910777909677025387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_138
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19131bf4ac1637fd0800000000000000
+      internalID: -2345423459381595759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_139
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e5d370c506c1ca0800000000000000
+      internalID: -6044850651463328209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_140
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a227b6252933b50800000000000000
+      internalID: 6571757163951303231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_141
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa72885b893d650800000000000000
+      internalID: 6256512212788554379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_142
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f40a9854bf76640800000000000000
+      internalID: 5073299781336452922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_143
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601938543f282010800000000000000
+      internalID: 1164232405540212844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_144
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf193d76db3fd7330800000000000000
+      internalID: 3710389662839443963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_145
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6807a65dd95faf9e0800000000000000
+      internalID: -1586685860455485306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_146
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0d9e20871974b0800000000000000
+      internalID: -5442292835395236319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_147
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6e4e69a778e1cc0800000000000000
+      internalID: -3738401680083589424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_148
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff09ebeee5a434f0800000000000000
+      internalID: -849871984087461891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_149
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d87a54693b1d830800000000000000
+      internalID: 4094250994251566403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_150
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e3c41d6e4bab90800000000000000
+      internalID: -7229598546406416074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_151
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6380799639005b30800000000000000
+      internalID: 4273926176481772395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_152
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbe0e5dcf6a56530800000000000000
+      internalID: 3847665061508213680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_153
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b782aacf078190800000000000000
+      internalID: -7960376453369450037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_154
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0bbd30572a7d20800000000000000
+      internalID: 3276974904451993005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_155
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bdf6de980528550800000000000000
+      internalID: 6161575793520532240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_156
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda52639d00582ea0800000000000000
+      internalID: -5897375692804171043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_157
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099fa0ca32f22b80800000000000000
+      internalID: -8420902019074647805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_158
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0010dff6f2cc59e0800000000000000
+      internalID: -1631214598905393140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_159
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acffd53050e0f8c80800000000000000
+      internalID: -8318414572035899446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_160
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205c2ce86f906b910800000000000000
+      internalID: 1852679251271271682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_161
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f9e1a09996a91c0800000000000000
+      internalID: -4496165171955327077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_162
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84ace6b5e62f8bb0800000000000000
+      internalID: -4931680298889075570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_163
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa54c5f9b1c9d70800000000000000
+      internalID: 9051139722369673853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_164
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37639f51666f4ee0800000000000000
+      internalID: -1274687601121204419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_165
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9cecfc21960b90800000000000000
+      internalID: -7275968525562504613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_166
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0424dd177f6925e0800000000000000
+      internalID: -1933892007586683893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_167
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375df53a889cce210800000000000000
+      internalID: 1363686375880119667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_168
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 36
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d95b6ac3309310800000000000000
+      internalID: 1409683627844425243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_169
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212acec3ca5c6e910800000000000000
+      internalID: 1866396439138837010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_170
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787fe65d38bf75210800000000000000
+      internalID: 1321801559296636807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_171
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66541a4fde1cccc0800000000000000
+      internalID: -3689540050353891730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_172
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823393c1903d2ec0800000000000000
+      internalID: -3590159925334822259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_173
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a07b165d6ec4e0800000000000000
+      internalID: -1959508571264604926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_174
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffc871f8f1b15ad0800000000000000
+      internalID: -2715193417566466060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_175
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacaea0a1fd2c8520800000000000000
+      internalID: 2705587991948995757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_176
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59deda4b537833500800000000000000
+      internalID: 374791858736197013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_177
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c776a4abe0e3e70800000000000000
+      internalID: 9096724490609982602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aatbio_com_image_export_Feb_7_2022_178
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e91c5d93e9fc40800000000000000
+      internalID: 5546714681078048760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
