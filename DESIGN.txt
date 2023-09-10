@@ -1,0 +1,30 @@
+a. pitch: implement new, simple mechanics which let the player handle 
+enemies in different ways, and maneuver around new level hazards, 
+even using them to your advantage in some cases. Our new custom levels mostly
+focuses around puzzles and figuring out how to get to the next room using our
+new weapon mechanic.
+
+b. a grappling hook which lets the player move around enemies 
+and certain blocks, which can be used in conjunction with the new 
+trap tiles and pit found in the level. The grappling player allows us to reel
+in enemies or certain blocks, allowing us to create an infinite possibility of
+level mechanics
+
+c. The grappling hook teaches the player to use pits and fragile tiles, 
+which are normally hazardous to the player, to their advantage, as well as keeping 
+players moving and playing less defensively, as staying in one area is riskier now.
+This changes the way the game is played by creating a sense of urgency and management in
+terms of which step the player should take next.
+
+d. Players will have to pull certain blocks to protect themselves from the dangerous sliders,
+as well as pulling enemies across pits or even dropping them in. These new mechanics forces
+players to be careful of their next decision as making the wrong move can bite them in the back later.
+
+e. Grappling hook can be used by pressing "z" after we have picked it up and the weapon is "OnHand".
+When clicking "z", players movement is restricted if the Grappling hook has hooked a target. The
+Player can then press the "Down Arrow Key" to reel the targets in. To release the hook, players
+can simply recast "z".
+
+f.
+kobeshi WebBuild: http://www-personal.umich.edu/~kobeshi/Zelda_NES_Web/
+faraaziq WebBuild: http://www-personal.umich.edu/~faraaziq/WebBuild/
